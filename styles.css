@@ -11,10 +11,10 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 /* my CSS starts: */
 body {
     padding: 20px;
-    margin-top: 5%;
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rebeccapurple;
+    background-color: beige;
     border: 1px solid black;
     max-width: 500px;
     min-width: 400px;
